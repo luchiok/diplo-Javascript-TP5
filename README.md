@@ -14,7 +14,7 @@ npm install
 npm run build
 npm start
 
-Repositorio Github: https://github.com/luchiok/diplo-Javascript-TP3
+Repositorio Github: https://github.com/luchiok/diplo-Javascript-TP5
 Gomez Luciano Nicolas
 Curso: Diplomatura en Creacion de aplicaciones web dinamicas
 con typescript
